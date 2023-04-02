@@ -24,3 +24,4 @@ sudo systemctl start jenkins
 sudo systemctl status jenkins
 sudo su - ec2-user
 echo "echo of jenkins installation"
+sudo su - ec2-user
